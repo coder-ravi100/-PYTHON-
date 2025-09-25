@@ -5,7 +5,7 @@ num = 153
 '''
 num = int (input ("Enter The Nunber :"))
 rev = 0
-rem = 0
+#rem = 0
 temp = num
 
 while num != 0:
