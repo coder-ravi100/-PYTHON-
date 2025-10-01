@@ -213,3 +213,59 @@ armstrong
 number gussing
 _____________________________________________________________________________________
 25/09/2025
+only menu drive program solve 
+
+
+_____________________________________________________________________________________
+Collection  (string,list,set,tuple,dictionary)
+
+string is ordered
+			
+1.List --- store set of values 
+---collection of items ,elements 
+     ordered 
+	 mutable / change
+
+string,int,float
+
+list in build methods 
+list indexing
+list slicing
+------------------------------------------------------------------------------------
+Important Points about List:
+
+Ordered hoti hai (jo sequence mein daali gayi values hain, wohi order maintain hota hai).
+
+Mutable hoti hai (matlab badal sakte ho – add, remove, update).
+
+Duplicate values allow karti hai.
+
+Square brackets [] ka use hota hai.
+
+numbers = [10, 20, 30, 40, 50]
+names = ["Ravi", "Amit", "Sita", "Geeta"]
+mixed = [10, "Ravi", 20.5, True]
+
+2.Tuple**
+Tuple bhi list jaisa hi hota hai — multiple values ek hi variable me store karne ke liye.
+Lekin main difference yeh hai ki:
+
+*List → mutable (badal sakte ho)
+
+*Tuple → immutable (ek baar ban gaya toh change nahi kar sakte)
+---------------------------------------------------------------
+# normal tuple
+t1 = (10, 20, 30, 40)
+---------------------------------------------------------------
+
+# mixed tuple
+t2 = (1, "Ravi", 3.14, True)
+--------------------------------------------------------------
+
+# ek hi element ka tuple banane ke liye comma jaruri hai
+t3 = (50,)  
+
+print(t1)
+print(t2)
+print(t3)
+

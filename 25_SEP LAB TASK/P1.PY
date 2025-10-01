@@ -13,7 +13,7 @@ Please enter string that you want otconvert in Uppercase
 qwert
 QWERT
 '''
-while True:
+while True:#while 1:
     print("1.CONVERT INTO UPPERCASE")
     print("2.CONVERT INTO LOWERCASE ")
     print("3.FIND LENGTH")

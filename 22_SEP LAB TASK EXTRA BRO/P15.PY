@@ -1,0 +1,5 @@
+'''
+TRUE - BOOL
+234 - INT
+45.76 - FLOAT
+'''
