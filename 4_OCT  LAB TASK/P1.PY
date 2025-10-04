@@ -1,0 +1,21 @@
+#SOLVING PROGRAM 
+'''
+1.WRITE A PROGRAM TO REMOVE ALL ITEAMS FROM A LIST THAT ARE LESS THEN 5 
+e.g:[12,3,4,5,67] OUTPUT:[12,5,67]
+
+2.WRITE A PROGRAM TO FIND COMMON AMONG 2 LIST e.g; LST_NUMBERS = [1,2,34,33,21]
+LST_NUMBERS2 = [11,2,33,45] OUTPUT:[2,33]
+
+3.WRITE A PROGRAM TO SORT A LIST A LIST OF STRING BY THEIR LENGHT e.g:['APPLE,'BAANANA','KIWI',ORANGE] 
+OUTPUT:['KIWI','APPLE','ORANGE',BANANA']
+
+4.WRITE A PROGRAM TO ACCEPTS A LIST OF INTERGERS AND RETURNS A TUPLE WITH THE SUM OF 
+ALL POSITIVE NUMBERS AND THE SUM  OF ALL NEGITIVE NUMBERS
+
+5.WRITE A PROGRAM THAT TAKES A LIST OF NUMBERS AND RETURNS a tuple containing the sum  and product of all
+the number input:[1,2,3,4] output:[1 0,2 4]
+
+6.create a new tuple with even numbes thier squares and cubes but sum of the middle values is in new variable
+
+7.Example: set operations but using operators(|,&,^,-)
+'''
